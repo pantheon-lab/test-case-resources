@@ -1,0 +1,882 @@
+[{
+  "_id": "27",
+  "name": {
+    "zh-hk": "佐敦站",
+    "zh-cn": "佐敦站",
+    "en": "Jordan Station"
+  },
+  "id": "27"
+},
+{
+  "_id": "43",
+  "name": {
+    "zh-hk": "筲箕灣站",
+    "zh-cn": "筲箕湾站",
+    "en": "Shau Kei Wan Station"
+  },
+  "id": "43"
+},
+{
+  "_id": "70",
+  "name": {
+    "zh-hk": "太和站",
+    "zh-cn": "太和站",
+    "en": "Tai Wo Station"
+  },
+  "id": "70"
+},
+{
+  "_id": "33",
+  "name": {
+    "zh-hk": "西營盤站",
+    "zh-cn": "西营盘站",
+    "en": "Sai Ying Pun Station"
+  },
+  "id": "33"
+},
+{
+  "_id": "29",
+  "name": {
+    "zh-hk": "金鐘站",
+    "zh-cn": "金钟站",
+    "en": "Admiralty Station"
+  },
+  "id": "29"
+},
+{
+  "_id": "68",
+  "name": {
+    "zh-hk": "大學站",
+    "zh-cn": "大学站",
+    "en": "University Station"
+  },
+  "id": "68"
+},
+{
+  "_id": "62",
+  "name": {
+    "zh-hk": "紅磡站",
+    "zh-cn": "红磡站",
+    "en": "Hung Hom Station"
+  },
+  "id": "62"
+},
+{
+  "_id": "19",
+  "name": {
+    "zh-hk": "大窩口站",
+    "zh-cn": "大窝口站",
+    "en": "Tai Wo Hau Station"
+  },
+  "id": "19"
+},
+{
+  "_id": "53",
+  "name": {
+    "zh-hk": "將軍澳站",
+    "zh-cn": "将军澳站",
+    "en": "Tseung Kwan O Station"
+  },
+  "id": "53"
+},
+{
+  "_id": "88",
+  "name": {
+    "zh-hk": "朗屏站",
+    "zh-cn": "朗屏站",
+    "en": "Long Ping Station"
+  },
+  "id": "88"
+},
+{
+  "_id": "76",
+  "name": {
+    "zh-hk": "沙田圍站",
+    "zh-cn": "沙田围站",
+    "en": "Sha Tin Wai Station"
+  },
+  "id": "76"
+},
+{
+  "_id": "79",
+  "name": {
+    "zh-hk": "大水坑站",
+    "zh-cn": "大水坑站",
+    "en": "Tai Shui Hang Station"
+  },
+  "id": "79"
+},
+{
+  "_id": "20",
+  "name": {
+    "zh-hk": "葵興站",
+    "zh-cn": "葵兴站",
+    "en": "Kwai Hing Station"
+  },
+  "id": "20"
+},
+{
+  "_id": "17",
+  "name": {
+    "zh-hk": "黃埔站",
+    "zh-cn": "黄埔站",
+    "en": "Whampoa Station"
+  },
+  "id": "17"
+},
+{
+  "_id": "8",
+  "name": {
+    "zh-hk": "鑽石山站",
+    "zh-cn": "钻石山站",
+    "en": "Diamond Hill Station"
+  },
+  "id": "8"
+},
+{
+  "_id": "30",
+  "name": {
+    "zh-hk": "中環站",
+    "zh-cn": "中环站",
+    "en": "Central Station"
+  },
+  "id": "30"
+},
+{
+  "_id": "1",
+  "name": {
+    "zh-hk": "調景嶺站",
+    "zh-cn": "调景岭站",
+    "en": "Tiu Keng Leng Station"
+  },
+  "id": "1"
+},
+{
+  "_id": "55",
+  "name": {
+    "zh-hk": "九龍站",
+    "zh-cn": "九龙站",
+    "en": "Kowloon Station"
+  },
+  "id": "55"
+},
+{
+  "_id": "9",
+  "name": {
+    "zh-hk": "黃大仙站",
+    "zh-cn": "黄大仙站",
+    "en": "Wong Tai Sin Station"
+  },
+  "id": "9"
+},
+{
+  "_id": "67",
+  "name": {
+    "zh-hk": "馬場站",
+    "zh-cn": "马场站",
+    "en": "Racecourse Station"
+  },
+  "id": "67"
+},
+{
+  "_id": "71",
+  "name": {
+    "zh-hk": "粉嶺站",
+    "zh-cn": "粉岭站",
+    "en": "Fanling Station"
+  },
+  "id": "71"
+},
+{
+  "_id": "85",
+  "name": {
+    "zh-hk": "荃灣西站",
+    "zh-cn": "荃湾西站",
+    "en": "Tsuen Wan West Station"
+  },
+  "id": "85"
+},
+{
+  "_id": "84",
+  "name": {
+    "zh-hk": "柯士甸站",
+    "zh-cn": "柯士甸站",
+    "en": "Austin Station"
+  },
+  "id": "84"
+},
+{
+  "_id": "44",
+  "name": {
+    "zh-hk": "杏花邨站",
+    "zh-cn": "杏花邨站",
+    "en": "Heng Fa Chuen Station"
+  },
+  "id": "44"
+},
+{
+  "_id": "23",
+  "name": {
+    "zh-hk": "美孚站",
+    "zh-cn": "美孚站",
+    "en": "Mei Foo Station"
+  },
+  "id": "23"
+},
+{
+  "_id": "96",
+  "name": {
+    "zh-hk": "宋皇臺站",
+    "zh-cn": "宋皇台站",
+    "en": "Sung Wong Toi Station"
+  },
+  "id": "96"
+},
+{
+  "_id": "2",
+  "name": {
+    "zh-hk": "油塘站",
+    "zh-cn": "油塘站",
+    "en": "Yau Tong Station"
+  },
+  "id": "2"
+},
+{
+  "_id": "90",
+  "name": {
+    "zh-hk": "兆康站",
+    "zh-cn": "兆康站",
+    "en": "Siu Hong Station"
+  },
+  "id": "90"
+},
+{
+  "_id": "7",
+  "name": {
+    "zh-hk": "彩虹站",
+    "zh-cn": "彩虹站",
+    "en": "Choi Hung Station"
+  },
+  "id": "7"
+},
+{
+  "_id": "49",
+  "name": {
+    "zh-hk": "海怡半島站",
+    "zh-cn": "海怡半岛站",
+    "en": "South Horizons Station"
+  },
+  "id": "49"
+},
+{
+  "_id": "50",
+  "name": {
+    "zh-hk": "康城站",
+    "zh-cn": "康城站",
+    "en": "Lohas Park Station"
+  },
+  "id": "50"
+},
+{
+  "_id": "34",
+  "name": {
+    "zh-hk": "上環站",
+    "zh-cn": "上环站",
+    "en": "Sheung Wan Station"
+  },
+  "id": "34"
+},
+{
+  "_id": "93",
+  "name": {
+    "zh-hk": "博覽館站",
+    "zh-cn": "博览馆站",
+    "en": "Asiaworld-Expo Station"
+  },
+  "id": "93"
+},
+{
+  "_id": "77",
+  "name": {
+    "zh-hk": "第一城站",
+    "zh-cn": "第一城站",
+    "en": "City One Station"
+  },
+  "id": "77"
+},
+{
+  "_id": "52",
+  "name": {
+    "zh-hk": "坑口站",
+    "zh-cn": "坑口站",
+    "en": "Hang Hau Station"
+  },
+  "id": "52"
+},
+{
+  "_id": "3",
+  "name": {
+    "zh-hk": "藍田站",
+    "zh-cn": "蓝田站",
+    "en": "Lam Tin Station"
+  },
+  "id": "3"
+},
+{
+  "_id": "25",
+  "name": {
+    "zh-hk": "長沙灣站",
+    "zh-cn": "长沙湾站",
+    "en": "Cheung Sha Wan Station"
+  },
+  "id": "25"
+},
+{
+  "_id": "61",
+  "name": {
+    "zh-hk": "迪士尼站",
+    "zh-cn": "迪士尼站",
+    "en": "Disneyland Resort Station"
+  },
+  "id": "61"
+},
+{
+  "_id": "18",
+  "name": {
+    "zh-hk": "荃灣站",
+    "zh-cn": "荃湾站",
+    "en": "Tsuen Wan Station"
+  },
+  "id": "18"
+},
+{
+  "_id": "51",
+  "name": {
+    "zh-hk": "寶琳站",
+    "zh-cn": "宝琳站",
+    "en": "Po Lam Station"
+  },
+  "id": "51"
+},
+{
+  "_id": "65",
+  "name": {
+    "zh-hk": "沙田站",
+    "zh-cn": "沙田站",
+    "en": "Sha Tin Station"
+  },
+  "id": "65"
+},
+{
+  "_id": "16",
+  "name": {
+    "zh-hk": "何文田站",
+    "zh-cn": "何文田站",
+    "en": "Ho Man Tin Station"
+  },
+  "id": "16"
+},
+{
+  "_id": "38",
+  "name": {
+    "zh-hk": "炮台山站",
+    "zh-cn": "炮台山站",
+    "en": "Fortress Hill Station"
+  },
+  "id": "38"
+},
+{
+  "_id": "72",
+  "name": {
+    "zh-hk": "上水站",
+    "zh-cn": "上水站",
+    "en": "Sheung Shui Station"
+  },
+  "id": "72"
+},
+{
+  "_id": "28",
+  "name": {
+    "zh-hk": "尖沙咀站",
+    "zh-cn": "尖沙咀站",
+    "en": "Tsim Sha Tsui Station"
+  },
+  "id": "28"
+},
+{
+  "_id": "74",
+  "name": {
+    "zh-hk": "落馬洲站",
+    "zh-cn": "落马洲站",
+    "en": "Lok Ma Chau Station"
+  },
+  "id": "74"
+},
+{
+  "_id": "86",
+  "name": {
+    "zh-hk": "錦上路站",
+    "zh-cn": "锦上路站",
+    "en": "Kam Sheung Road Station"
+  },
+  "id": "86"
+},
+{
+  "_id": "83",
+  "name": {
+    "zh-hk": "尖東站",
+    "zh-cn": "尖东站",
+    "en": "East Tsim Sha Tsui Station"
+  },
+  "id": "83"
+},
+{
+  "_id": "95",
+  "name": {
+    "zh-hk": "啟德站",
+    "zh-cn": "启德站",
+    "en": "Kai Tak Station"
+  },
+  "id": "95"
+},
+{
+  "_id": "87",
+  "name": {
+    "zh-hk": "元朗站",
+    "zh-cn": "元朗站",
+    "en": "Yuen Long Station"
+  },
+  "id": "87"
+},
+{
+  "_id": "35",
+  "name": {
+    "zh-hk": "灣仔站",
+    "zh-cn": "湾仔站",
+    "en": "Wan Chai Station"
+  },
+  "id": "35"
+},
+{
+  "_id": "42",
+  "name": {
+    "zh-hk": "西灣河站",
+    "zh-cn": "西湾河站",
+    "en": "Sai Wan Ho Station"
+  },
+  "id": "42"
+},
+{
+  "_id": "64",
+  "name": {
+    "zh-hk": "大圍站",
+    "zh-cn": "大围站",
+    "en": "Tai Wai Station"
+  },
+  "id": "64"
+},
+{
+  "_id": "58",
+  "name": {
+    "zh-hk": "青衣站",
+    "zh-cn": "青衣站",
+    "en": "Tsing Yi Station"
+  },
+  "id": "58"
+},
+{
+  "_id": "69",
+  "name": {
+    "zh-hk": "大埔墟站",
+    "zh-cn": "大埔墟站",
+    "en": "Tai Po Market Station"
+  },
+  "id": "69"
+},
+{
+  "_id": "21",
+  "name": {
+    "zh-hk": "葵芳站",
+    "zh-cn": "葵芳站",
+    "en": "Kwai Fong Station"
+  },
+  "id": "21"
+},
+{
+  "_id": "97",
+  "name": {
+    "zh-hk": "土瓜灣站",
+    "zh-cn": "土瓜湾站",
+    "en": "To Kwa Wan Station"
+  },
+  "id": "97"
+},
+{
+  "_id": "92",
+  "name": {
+    "zh-hk": "機場站",
+    "zh-cn": "机场站",
+    "en": "Airport Station"
+  },
+  "id": "92"
+},
+{
+  "_id": "80",
+  "name": {
+    "zh-hk": "恒安站",
+    "zh-cn": "恒安站",
+    "en": "Heng On Station"
+  },
+  "id": "80"
+},
+{
+  "_id": "63",
+  "name": {
+    "zh-hk": "旺角東站",
+    "zh-cn": "旺角东站",
+    "en": "Mong Kok East Station"
+  },
+  "id": "63"
+},
+{
+  "_id": "56",
+  "name": {
+    "zh-hk": "奧運站",
+    "zh-cn": "奥运站",
+    "en": "Olympic Station"
+  },
+  "id": "56"
+},
+{
+  "_id": "15",
+  "name": {
+    "zh-hk": "油麻地站",
+    "zh-cn": "油麻地站",
+    "en": "Yau Ma Tei Station"
+  },
+  "id": "15"
+},
+{
+  "_id": "37",
+  "name": {
+    "zh-hk": "天后站",
+    "zh-cn": "天后站",
+    "en": "Tin Hau Station"
+  },
+  "id": "37"
+},
+{
+  "_id": "66",
+  "name": {
+    "zh-hk": "火炭站",
+    "zh-cn": "火炭站",
+    "en": "Fo Tan Station"
+  },
+  "id": "66"
+},
+{
+  "_id": "94",
+  "name": {
+    "zh-hk": "顯徑站",
+    "zh-cn": "显径站",
+    "en": "Hin Keng Station"
+  },
+  "id": "94"
+},
+{
+  "_id": "22",
+  "name": {
+    "zh-hk": "荔景站",
+    "zh-cn": "荔景站",
+    "en": "Lai King Station"
+  },
+  "id": "22"
+},
+{
+  "_id": "10",
+  "name": {
+    "zh-hk": "樂富站",
+    "zh-cn": "乐富站",
+    "en": "Lok Fu Station"
+  },
+  "id": "10"
+},
+{
+  "_id": "12",
+  "name": {
+    "zh-hk": "石硤尾站",
+    "zh-cn": "石硖尾站",
+    "en": "Shek Kip Mei Station"
+  },
+  "id": "12"
+},
+{
+  "_id": "39",
+  "name": {
+    "zh-hk": "北角站",
+    "zh-cn": "北角站",
+    "en": "North Point Station"
+  },
+  "id": "39"
+},
+{
+  "_id": "45",
+  "name": {
+    "zh-hk": "柴灣站",
+    "zh-cn": "柴湾站",
+    "en": "Chai Wan Station"
+  },
+  "id": "45"
+},
+{
+  "_id": "46",
+  "name": {
+    "zh-hk": "海洋公園站",
+    "zh-cn": "海洋公园站",
+    "en": "Ocean Park Station"
+  },
+  "id": "46"
+},
+{
+  "_id": "13",
+  "name": {
+    "zh-hk": "太子站",
+    "zh-cn": "太子站",
+    "en": "Prince Edward Station"
+  },
+  "id": "13"
+},
+{
+  "_id": "60",
+  "name": {
+    "zh-hk": "東涌站",
+    "zh-cn": "东涌站",
+    "en": "Tung Chung Station"
+  },
+  "id": "60"
+},
+{
+  "_id": "41",
+  "name": {
+    "zh-hk": "太古站",
+    "zh-cn": "太古站",
+    "en": "Tai Koo Station"
+  },
+  "id": "41"
+},
+{
+  "_id": "82",
+  "name": {
+    "zh-hk": "烏溪沙站",
+    "zh-cn": "乌溪沙站",
+    "en": "Wu Kai Sha Station"
+  },
+  "id": "82"
+},
+{
+  "_id": "11",
+  "name": {
+    "zh-hk": "九龍塘站",
+    "zh-cn": "九龙塘站",
+    "en": "Kowloon Tong Station"
+  },
+  "id": "11"
+},
+{
+  "_id": "6",
+  "name": {
+    "zh-hk": "九龍灣站",
+    "zh-cn": "九龙湾站",
+    "en": "Kowloon Bay Station"
+  },
+  "id": "6"
+},
+{
+  "_id": "32",
+  "name": {
+    "zh-hk": "香港大學站",
+    "zh-cn": "香港大学站",
+    "en": "HKU Station"
+  },
+  "id": "32"
+},
+{
+  "_id": "47",
+  "name": {
+    "zh-hk": "黃竹坑站",
+    "zh-cn": "黄竹坑站",
+    "en": "Wong Chuk Hang Station"
+  },
+  "id": "47"
+},
+{
+  "_id": "5",
+  "name": {
+    "zh-hk": "牛頭角站",
+    "zh-cn": "牛头角站",
+    "en": "Ngau Tau Kok Station"
+  },
+  "id": "5"
+},
+{
+  "_id": "24",
+  "name": {
+    "zh-hk": "荔枝角站",
+    "zh-cn": "荔枝角站",
+    "en": "Lai Chi Kok Station"
+  },
+  "id": "24"
+},
+{
+  "_id": "31",
+  "name": {
+    "zh-hk": "堅尼地城站",
+    "zh-cn": "坚尼地城站",
+    "en": "Kennedy Town Station"
+  },
+  "id": "31"
+},
+{
+  "_id": "54",
+  "name": {
+    "zh-hk": "香港站",
+    "zh-cn": "香港站",
+    "en": "Hong Kong Station"
+  },
+  "id": "54"
+},
+{
+  "_id": "4",
+  "name": {
+    "zh-hk": "觀塘站",
+    "zh-cn": "观塘站",
+    "en": "Kwun Tong Station"
+  },
+  "id": "4"
+},
+{
+  "_id": "48",
+  "name": {
+    "zh-hk": "利東站",
+    "zh-cn": "利东站",
+    "en": "Lei Tung Station"
+  },
+  "id": "48"
+},
+{
+  "_id": "26",
+  "name": {
+    "zh-hk": "深水埗站",
+    "zh-cn": "深水埗站",
+    "en": "Sham Shui Po Station"
+  },
+  "id": "26"
+},
+{
+  "_id": "40",
+  "name": {
+    "zh-hk": "鰂魚涌站",
+    "zh-cn": "鲗鱼涌站",
+    "en": "Quarry Bay Station"
+  },
+  "id": "40"
+},
+{
+  "_id": "36",
+  "name": {
+    "zh-hk": "銅鑼灣站",
+    "zh-cn": "铜锣湾站",
+    "en": "Causeway Bay Station"
+  },
+  "id": "36"
+},
+{
+  "_id": "91",
+  "name": {
+    "zh-hk": "屯門站",
+    "zh-cn": "屯门站",
+    "en": "Tuen Mun Station"
+  },
+  "id": "91"
+},
+{
+  "_id": "59",
+  "name": {
+    "zh-hk": "欣澳站",
+    "zh-cn": "欣澳站",
+    "en": "Sunny Bay Station"
+  },
+  "id": "59"
+},
+{
+  "_id": "14",
+  "name": {
+    "zh-hk": "旺角站",
+    "zh-cn": "旺角站",
+    "en": "Mong Kok Station"
+  },
+  "id": "14"
+},
+{
+  "_id": "89",
+  "name": {
+    "zh-hk": "天水圍站",
+    "zh-cn": "天水围站",
+    "en": "Tin Shui Wai Station"
+  },
+  "id": "89"
+},
+{
+  "_id": "75",
+  "name": {
+    "zh-hk": "車公廟站",
+    "zh-cn": "车公庙站",
+    "en": "Che Kung Temple Station"
+  },
+  "id": "75"
+},
+{
+  "_id": "78",
+  "name": {
+    "zh-hk": "石門站",
+    "zh-cn": "石门站",
+    "en": "Shek Mun Station"
+  },
+  "id": "78"
+},
+{
+  "_id": "57",
+  "name": {
+    "zh-hk": "南昌站",
+    "zh-cn": "南昌站",
+    "en": "Nam Cheong Station"
+  },
+  "id": "57"
+},
+{
+  "_id": "73",
+  "name": {
+    "zh-hk": "羅湖站",
+    "zh-cn": "罗湖站",
+    "en": "Lo Wu Station"
+  },
+  "id": "73"
+},
+{
+  "_id": "98",
+  "name": {
+    "zh-hk": "會展站",
+    "zh-cn": "会展站",
+    "en": "Exhibition Centre Station"
+  },
+  "id": "98"
+},
+{
+  "_id": "81",
+  "name": {
+    "zh-hk": "馬鞍山站",
+    "zh-cn": "马鞍山站",
+    "en": "Ma On Shan Station"
+  },
+  "id": "81"
+}]

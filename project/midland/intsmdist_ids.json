@@ -1,0 +1,1430 @@
+[{
+  "_id": {
+    "$oid": "62b525f52d96e53d80871fea"
+  },
+  "id": "130ND20046",
+  "name": {
+    "zh-hk": "將軍澳市中心",
+    "zh-cn": "将军澳市中心",
+    "en": "Tseung Kwan O Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526272d96e53d80878f75"
+  },
+  "id": "130ND20045",
+  "name": {
+    "zh-hk": "寶琳",
+    "zh-cn": "宝琳",
+    "en": "Po Lam"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526462d96e53d8087cffb"
+  },
+  "id": "130ND20047",
+  "name": {
+    "zh-hk": "調景嶺",
+    "zh-cn": "调景岭",
+    "en": "Tiu Keng Leng"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526552d96e53d8087f10c"
+  },
+  "id": "130ND20048",
+  "name": {
+    "zh-hk": "清水灣",
+    "zh-cn": "清水湾",
+    "en": "Clear Water Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526602d96e53d80880b0f"
+  },
+  "id": "130ND20049",
+  "name": {
+    "zh-hk": "西貢",
+    "zh-cn": "西贡",
+    "en": "Sai Kung"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526782d96e53d808838c3"
+  },
+  "id": "130ND30002",
+  "name": {
+    "zh-hk": "荃灣西",
+    "zh-cn": "荃湾西",
+    "en": "Tsuen Wan West"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526892d96e53d80886239"
+  },
+  "id": "130ND30001",
+  "name": {
+    "zh-hk": "海濱區",
+    "zh-cn": "海滨区",
+    "en": "Riviera Area"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526942d96e53d80887e37"
+  },
+  "id": "130ND30004",
+  "name": {
+    "zh-hk": "大窩口",
+    "zh-cn": "大窝口",
+    "en": "Tai Wo Hau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526be2d96e53d8088caec"
+  },
+  "id": "130ND30003",
+  "name": {
+    "zh-hk": "荃灣市中心",
+    "zh-cn": "荃湾市中心",
+    "en": "Tsuen Wan Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b526ee2d96e53d80893b48"
+  },
+  "id": "130ND30005",
+  "name": {
+    "zh-hk": "小欖 / 掃管笏 / 青山灣",
+    "zh-cn": "小榄 / 扫管笏 / 青山湾",
+    "en": "Siu Lam / So Kwun Wat / Castle Peak Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527082d96e53d80896f11"
+  },
+  "id": "130ND30006",
+  "name": {
+    "zh-hk": "深井 / 青龍頭",
+    "zh-cn": "深井 / 青龙头",
+    "en": "Sham Tseng / Tsing Lung Tau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527222d96e53d8089a89c"
+  },
+  "id": "130ND30008",
+  "name": {
+    "zh-hk": "珀麗灣",
+    "zh-cn": "珀丽湾",
+    "en": "Park Island"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527342d96e53d8089cd07"
+  },
+  "id": "130ND30007",
+  "name": {
+    "zh-hk": "麗城 / 汀九",
+    "zh-cn": "丽城 / 汀九",
+    "en": "Belvedere / Ting Kau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5275a2d96e53d808a16f0"
+  },
+  "id": "130ND30009",
+  "name": {
+    "zh-hk": "青衣",
+    "zh-cn": "青衣",
+    "en": "Tsing Yi"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527802d96e53d808a6fe6"
+  },
+  "id": "130ND30010",
+  "name": {
+    "zh-hk": "葵涌",
+    "zh-cn": "葵涌",
+    "en": "Kwai Chung"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5278d2d96e53d808a8c56"
+  },
+  "id": "130ND30038",
+  "name": {
+    "zh-hk": "大埔半山",
+    "zh-cn": "大埔半山",
+    "en": "Tai Po Mid-Levels"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527972d96e53d808a9f3a"
+  },
+  "id": "130ND30039",
+  "name": {
+    "zh-hk": "汀角路豪宅",
+    "zh-cn": "汀角路豪宅",
+    "en": "Ting Kok Road Lux. Res."
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527b32d96e53d808ad430"
+  },
+  "id": "130ND10002",
+  "name": {
+    "zh-hk": "西營盤",
+    "zh-cn": "西营盘",
+    "en": "Sai Ying Poon"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b527dd2d96e53d808b31e3"
+  },
+  "id": "130ND10001",
+  "name": {
+    "zh-hk": "西半山",
+    "zh-cn": "西半山",
+    "en": "Mid-Levels West"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5280a2d96e53d808b8f66"
+  },
+  "id": "130ND10003",
+  "name": {
+    "zh-hk": "堅尼地城",
+    "zh-cn": "坚尼地城",
+    "en": "Kennedy Town"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528282d96e53d808bd633"
+  },
+  "id": "130ND10004",
+  "name": {
+    "zh-hk": "中環/上環",
+    "zh-cn": "中环/上环",
+    "en": "Central / Sheung Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528302d96e53d808be9aa"
+  },
+  "id": "130ND10005",
+  "name": {
+    "zh-hk": "金鐘半山",
+    "zh-cn": "金钟半山",
+    "en": "Admiralty Mid-Levels"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528392d96e53d808bfff4"
+  },
+  "id": "130ND10006",
+  "name": {
+    "zh-hk": "中半山",
+    "zh-cn": "中半山",
+    "en": "Mid-Levels Central"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528412d96e53d808c1451"
+  },
+  "id": "130ND10007",
+  "name": {
+    "zh-hk": "山頂",
+    "zh-cn": "山顶",
+    "en": "The Peak"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528452d96e53d808c1dbc"
+  },
+  "id": "130ND10008",
+  "name": {
+    "zh-hk": "司徒拔道",
+    "zh-cn": "司徒拔道",
+    "en": "Stubbs Road"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528512d96e53d808c3613"
+  },
+  "id": "130ND10009",
+  "name": {
+    "zh-hk": "大坑道",
+    "zh-cn": "大坑道",
+    "en": "Tai Hang Road"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528552d96e53d808c421c"
+  },
+  "id": "130ND10010",
+  "name": {
+    "zh-hk": "渣甸山",
+    "zh-cn": "渣甸山",
+    "en": "Jardine's Lookout"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528682d96e53d808c673c"
+  },
+  "id": "130ND10011",
+  "name": {
+    "zh-hk": "跑馬地",
+    "zh-cn": "跑马地",
+    "en": "Happy Valley"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528782d96e53d808c8997"
+  },
+  "id": "130ND10013",
+  "name": {
+    "zh-hk": "銅鑼灣",
+    "zh-cn": "铜锣湾",
+    "en": "Causeway Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528982d96e53d808cc6d3"
+  },
+  "id": "130ND10012",
+  "name": {
+    "zh-hk": "灣仔",
+    "zh-cn": "湾仔",
+    "en": "Wanchai"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528a72d96e53d808cfa95"
+  },
+  "id": "130ND10014",
+  "name": {
+    "zh-hk": "天后",
+    "zh-cn": "天后",
+    "en": "Tin Hau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528b62d96e53d808d1b18"
+  },
+  "id": "130ND10016",
+  "name": {
+    "zh-hk": "北角半山",
+    "zh-cn": "北角半山",
+    "en": "North Point Mid-Levels"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b528e22d96e53d808d738c"
+  },
+  "id": "130ND10015",
+  "name": {
+    "zh-hk": "北角 / 炮台山",
+    "zh-cn": "北角 / 炮台山",
+    "en": "North Point / Fortress Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529032d96e53d808ddd00"
+  },
+  "id": "130ND10017",
+  "name": {
+    "zh-hk": "寶馬山",
+    "zh-cn": "宝马山",
+    "en": "Braemar Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529102d96e53d808dfc4f"
+  },
+  "id": "130ND10018",
+  "name": {
+    "zh-hk": "柴灣",
+    "zh-cn": "柴湾",
+    "en": "Chai Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5291e2d96e53d808e1f27"
+  },
+  "id": "130ND10019",
+  "name": {
+    "zh-hk": "小西灣",
+    "zh-cn": "小西湾",
+    "en": "Siu Sai Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529342d96e53d808e5742"
+  },
+  "id": "130ND10021",
+  "name": {
+    "zh-hk": "筲箕灣",
+    "zh-cn": "筲箕湾",
+    "en": "Shau Kei Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5294f2d96e53d808e9b60"
+  },
+  "id": "130ND10020",
+  "name": {
+    "zh-hk": "杏花邨",
+    "zh-cn": "杏花邨",
+    "en": "Heng Fa Chuen"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529612d96e53d808ec764"
+  },
+  "id": "130ND10023",
+  "name": {
+    "zh-hk": "太古",
+    "zh-cn": "太古",
+    "en": "Taikoo"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5297c2d96e53d808f0cc8"
+  },
+  "id": "130ND10022",
+  "name": {
+    "zh-hk": "西灣河",
+    "zh-cn": "西湾河",
+    "en": "Sai Wan Ho"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529a62d96e53d808f70f3"
+  },
+  "id": "130ND10024",
+  "name": {
+    "zh-hk": "鰂魚涌",
+    "zh-cn": "鲗鱼涌",
+    "en": "Quarry Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529b72d96e53d808f9e5c"
+  },
+  "id": "130ND10026",
+  "name": {
+    "zh-hk": "華富",
+    "zh-cn": "华富",
+    "en": "Wah Fu"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529ca2d96e53d808fc31c"
+  },
+  "id": "130ND10025",
+  "name": {
+    "zh-hk": "鴨脷洲",
+    "zh-cn": "鸭脷洲",
+    "en": "Ap Lei Chau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529e02d96e53d808ff21e"
+  },
+  "id": "130ND10027",
+  "name": {
+    "zh-hk": "香港仔 / 田灣",
+    "zh-cn": "香港仔 / 田湾",
+    "en": "Aberdeen / Tin Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529ea2d96e53d80900829"
+  },
+  "id": "130ND10028",
+  "name": {
+    "zh-hk": "黃竹坑 / 深灣",
+    "zh-cn": "黄竹坑 / 深湾",
+    "en": "Wong Chuk Hang / Sham Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529ef2d96e53d8090156f"
+  },
+  "id": "130ND10029",
+  "name": {
+    "zh-hk": "大潭 / 紅山半島",
+    "zh-cn": "大潭 / 红山半岛",
+    "en": "Tai Tam / Redhill Peninsula"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529f32d96e53d80901e8c"
+  },
+  "id": "130ND10031",
+  "name": {
+    "zh-hk": "舂磡角",
+    "zh-cn": "舂磡角",
+    "en": "Chung Hom Kok"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529f52d96e53d8090232c"
+  },
+  "id": "130ND10030",
+  "name": {
+    "zh-hk": "石澳",
+    "zh-cn": "石澳",
+    "en": "Shek O"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b529f62d96e53d8090264d"
+  },
+  "id": "130ND20040",
+  "name": {
+    "zh-hk": "安達臣",
+    "zh-cn": "安达臣",
+    "en": "Anderson"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a0b2d96e53d8090511f"
+  },
+  "id": "130ND20041",
+  "name": {
+    "zh-hk": "藍田",
+    "zh-cn": "蓝田",
+    "en": "Lam Tin"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a222d96e53d80908c40"
+  },
+  "id": "130ND20042",
+  "name": {
+    "zh-hk": "油塘",
+    "zh-cn": "油塘",
+    "en": "Yau Tong"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a412d96e53d8090ea0d"
+  },
+  "id": "130ND20043",
+  "name": {
+    "zh-hk": "康城",
+    "zh-cn": "康城",
+    "en": "Lohas Park"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a6b2d96e53d8091557e"
+  },
+  "id": "130ND20044",
+  "name": {
+    "zh-hk": "坑口",
+    "zh-cn": "坑口",
+    "en": "Hang Hau"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a792d96e53d809181a1"
+  },
+  "id": "130ND10032",
+  "name": {
+    "zh-hk": "赤柱",
+    "zh-cn": "赤柱",
+    "en": "Stanley"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a7f2d96e53d8091917a"
+  },
+  "id": "130ND10033",
+  "name": {
+    "zh-hk": "淺水灣 / 陽明山莊",
+    "zh-cn": "浅水湾 / 阳明山庄",
+    "en": "Repulse Bay / Hong Kong Parkview"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a842d96e53d80919ee0"
+  },
+  "id": "130ND10034",
+  "name": {
+    "zh-hk": "南灣 / 赫蘭道",
+    "zh-cn": "南湾 / 赫兰道",
+    "en": "South Bay / Headland Road"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a862d96e53d8091a699"
+  },
+  "id": "130ND10035",
+  "name": {
+    "zh-hk": "深水灣",
+    "zh-cn": "深水湾",
+    "en": "Deep Water Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a902d96e53d8091bcce"
+  },
+  "id": "130ND10037",
+  "name": {
+    "zh-hk": "薄扶林",
+    "zh-cn": "薄扶林",
+    "en": "Pokfulam"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52a982d96e53d8091d252"
+  },
+  "id": "130ND10036",
+  "name": {
+    "zh-hk": "壽臣山",
+    "zh-cn": "寿臣山",
+    "en": "Shouson Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52aa42d96e53d8091ece5"
+  },
+  "id": "130ND20001",
+  "name": {
+    "zh-hk": "啟德",
+    "zh-cn": "启德",
+    "en": "Kai Tak"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52aad2d96e53d809201d1"
+  },
+  "id": "130ND10038",
+  "name": {
+    "zh-hk": "貝沙灣",
+    "zh-cn": "贝沙湾",
+    "en": "Residence Bel-Air"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ab32d96e53d8092165d"
+  },
+  "id": "130ND20002",
+  "name": {
+    "zh-hk": "馬頭圍",
+    "zh-cn": "马头围",
+    "en": "Ma Tau Wai"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ad82d96e53d8092622e"
+  },
+  "id": "130ND20003",
+  "name": {
+    "zh-hk": "土瓜灣",
+    "zh-cn": "土瓜湾",
+    "en": "To Kwa Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52af22d96e53d8092c9f3"
+  },
+  "id": "130ND20004",
+  "name": {
+    "zh-hk": "九龍城",
+    "zh-cn": "九龙城",
+    "en": "Kowloon City"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52afa2d96e53d8092e3b7"
+  },
+  "id": "130ND20007",
+  "name": {
+    "zh-hk": "筆架山",
+    "zh-cn": "笔架山",
+    "en": "Beacon Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52aff2d96e53d8092f2d2"
+  },
+  "id": "130ND20006",
+  "name": {
+    "zh-hk": "新筆架山",
+    "zh-cn": "新笔架山",
+    "en": "New Beacon Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b072d96e53d809309bf"
+  },
+  "id": "130ND20005",
+  "name": {
+    "zh-hk": "九龍塘",
+    "zh-cn": "九龙塘",
+    "en": "Kowloon Tong"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b0f2d96e53d809323f5"
+  },
+  "id": "130ND20008",
+  "name": {
+    "zh-hk": "又一村",
+    "zh-cn": "又一村",
+    "en": "Yau Yat Chuen"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b282d96e53d80937fef"
+  },
+  "id": "130ND20010",
+  "name": {
+    "zh-hk": "何文田",
+    "zh-cn": "何文田",
+    "en": "Ho Man Tin"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b3f2d96e53d8093f2cf"
+  },
+  "id": "130ND20009",
+  "name": {
+    "zh-hk": "京士柏",
+    "zh-cn": "京士柏",
+    "en": "Kingspark"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b432d96e53d80940bdd"
+  },
+  "id": "130ND20011",
+  "name": {
+    "zh-hk": "加多利山",
+    "zh-cn": "加多利山",
+    "en": "Kadoorie Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b4d2d96e53d80943c25"
+  },
+  "id": "130ND20012",
+  "name": {
+    "zh-hk": "紅磡站",
+    "zh-cn": "红磡站",
+    "en": "Hung Hom Station"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b582d96e53d80945a36"
+  },
+  "id": "130ND20013",
+  "name": {
+    "zh-hk": "海逸",
+    "zh-cn": "海逸",
+    "en": "Laguna"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52b712d96e53d80948e35"
+  },
+  "id": "130ND20014",
+  "name": {
+    "zh-hk": "黃埔",
+    "zh-cn": "黄埔",
+    "en": "Whampoa"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52bc02d96e53d80965684"
+  },
+  "id": "130ND20015",
+  "name": {
+    "zh-hk": "紅磡",
+    "zh-cn": "红磡",
+    "en": "Hung Hom"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52bd62d96e53d8096c459"
+  },
+  "id": "130ND20016",
+  "name": {
+    "zh-hk": "尖沙咀",
+    "zh-cn": "尖沙咀",
+    "en": "Tsim Sha Tsui"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52bf12d96e53d80970773"
+  },
+  "id": "130ND20018",
+  "name": {
+    "zh-hk": "九龍站",
+    "zh-cn": "九龙站",
+    "en": "Kowloon Station"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c052d96e53d80973270"
+  },
+  "id": "130ND20017",
+  "name": {
+    "zh-hk": "佐敦",
+    "zh-cn": "佐敦",
+    "en": "Jordan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c152d96e53d8097573a"
+  },
+  "id": "130ND20020",
+  "name": {
+    "zh-hk": "南昌站",
+    "zh-cn": "南昌站",
+    "en": "Nam Cheong Station"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c342d96e53d80979dec"
+  },
+  "id": "130ND20019",
+  "name": {
+    "zh-hk": "奧運站",
+    "zh-cn": "奥运站",
+    "en": "Olympic Station"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c4b2d96e53d8097d199"
+  },
+  "id": "130ND20021",
+  "name": {
+    "zh-hk": "油麻地",
+    "zh-cn": "油麻地",
+    "en": "Yau Ma Tei"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c5f2d96e53d80980160"
+  },
+  "id": "130ND20022",
+  "name": {
+    "zh-hk": "大角咀",
+    "zh-cn": "大角咀",
+    "en": "Tai Kok Tsui"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c742d96e53d80983275"
+  },
+  "id": "130ND20023",
+  "name": {
+    "zh-hk": "旺角",
+    "zh-cn": "旺角",
+    "en": "Mongkok"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52c862d96e53d80986071"
+  },
+  "id": "130ND20024",
+  "name": {
+    "zh-hk": "太子",
+    "zh-cn": "太子",
+    "en": "Prince Edward"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ca72d96e53d8098a68f"
+  },
+  "id": "130ND20026",
+  "name": {
+    "zh-hk": "長沙灣",
+    "zh-cn": "长沙湾",
+    "en": "Cheung Sha Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52cc32d96e53d8098e3ee"
+  },
+  "id": "130ND20025",
+  "name": {
+    "zh-hk": "深水埗",
+    "zh-cn": "深水埗",
+    "en": "Sham Shui Po"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52cdd2d96e53d80992865"
+  },
+  "id": "130ND20028",
+  "name": {
+    "zh-hk": "四小龍 / 荔枝角",
+    "zh-cn": "四小龙 / 荔枝角",
+    "en": "Four Little Dragons / Lai Chi Kok"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52cec2d96e53d80994cd2"
+  },
+  "id": "130ND20029",
+  "name": {
+    "zh-hk": "荔景站 / 華景",
+    "zh-cn": "荔景站 / 华景",
+    "en": "Lai King Station / Wonderland"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d082d96e53d809981d2"
+  },
+  "id": "130ND20030",
+  "name": {
+    "zh-hk": "美孚站",
+    "zh-cn": "美孚站",
+    "en": "Mei Foo Station"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d162d96e53d8099acd0"
+  },
+  "id": "130ND20031",
+  "name": {
+    "zh-hk": "樂富",
+    "zh-cn": "乐富",
+    "en": "Lok Fu"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d1f2d96e53d8099c2cd"
+  },
+  "id": "130ND20032",
+  "name": {
+    "zh-hk": "新蒲崗",
+    "zh-cn": "新蒲岗",
+    "en": "San Po Kong"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d2b2d96e53d8099ddde"
+  },
+  "id": "130ND20034",
+  "name": {
+    "zh-hk": "慈雲山",
+    "zh-cn": "慈云山",
+    "en": "Tsz Wan Shan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d392d96e53d809a01cc"
+  },
+  "id": "130ND20033",
+  "name": {
+    "zh-hk": "鑽石山",
+    "zh-cn": "钻石山",
+    "en": "Diamond Hill"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d492d96e53d809a25d7"
+  },
+  "id": "130ND20036",
+  "name": {
+    "zh-hk": "彩虹 / 牛池灣",
+    "zh-cn": "彩虹 / 牛池湾",
+    "en": "Choi Hung / Ngau Chi Wan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d602d96e53d809a5454"
+  },
+  "id": "130ND20035",
+  "name": {
+    "zh-hk": "黃大仙",
+    "zh-cn": "黄大仙",
+    "en": "Wong Tai Sin"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d6c2d96e53d809a7ae0"
+  },
+  "id": "130ND20038",
+  "name": {
+    "zh-hk": "牛頭角",
+    "zh-cn": "牛头角",
+    "en": "Ngau Tau Kok"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52d832d96e53d809aab48"
+  },
+  "id": "130ND20037",
+  "name": {
+    "zh-hk": "九龍灣",
+    "zh-cn": "九龙湾",
+    "en": "Kowloon Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52da32d96e53d809af443"
+  },
+  "id": "130ND20039",
+  "name": {
+    "zh-hk": "觀塘",
+    "zh-cn": "观塘",
+    "en": "Kwun Tong"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52db92d96e53d809b26de"
+  },
+  "id": "130ND30011",
+  "name": {
+    "zh-hk": "藍地",
+    "zh-cn": "蓝地",
+    "en": "Lam Tei"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52dfb2d96e53d809bafd9"
+  },
+  "id": "130ND30013",
+  "name": {
+    "zh-hk": "屯門市中心",
+    "zh-cn": "屯门市中心",
+    "en": "Tuen Mun Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52e392d96e53d809c8f70"
+  },
+  "id": "130ND30012",
+  "name": {
+    "zh-hk": "屯門碼頭",
+    "zh-cn": "屯门码头",
+    "en": "Tuen Mun Ferry"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52e4e2d96e53d809cc076"
+  },
+  "id": "130ND30015",
+  "name": {
+    "zh-hk": "錦田",
+    "zh-cn": "锦田",
+    "en": "Kam Tin"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52e822d96e53d809d2e0d"
+  },
+  "id": "130ND30014",
+  "name": {
+    "zh-hk": "元朗市中心",
+    "zh-cn": "元朗市中心",
+    "en": "Yuen Long Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ed42d96e53d809e1b2b"
+  },
+  "id": "130ND30017",
+  "name": {
+    "zh-hk": "天水圍",
+    "zh-cn": "天水围",
+    "en": "Tin Shui Wai"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ef22d96e53d809e78fb"
+  },
+  "id": "130ND30016",
+  "name": {
+    "zh-hk": "朗屏",
+    "zh-cn": "朗屏",
+    "en": "Long Ping"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52ef82d96e53d809e8631"
+  },
+  "id": "130ND30018",
+  "name": {
+    "zh-hk": "流浮山",
+    "zh-cn": "流浮山",
+    "en": "Lau Fau Shan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52efa2d96e53d809e8b26"
+  },
+  "id": "130ND30019",
+  "name": {
+    "zh-hk": "洪水橋南新發展",
+    "zh-cn": "洪水桥南新发展",
+    "en": "South Hung Shui Kiu New Development"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f022d96e53d809e9d61"
+  },
+  "id": "130ND30020",
+  "name": {
+    "zh-hk": "洪水橋北新發展",
+    "zh-cn": "洪水桥北新发展",
+    "en": "North Hung Shui Kiu New Development"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f082d96e53d809eafe2"
+  },
+  "id": "130ND30022",
+  "name": {
+    "zh-hk": "古洞",
+    "zh-cn": "古洞",
+    "en": "Kwu Tung"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f1e2d96e53d809ee07a"
+  },
+  "id": "130ND30021",
+  "name": {
+    "zh-hk": "加州 / 錦繡",
+    "zh-cn": "加州 / 锦绣",
+    "en": "Palm Springs / Fairview"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f472d96e53d809f2f41"
+  },
+  "id": "130ND30023",
+  "name": {
+    "zh-hk": "粉嶺 / 粉嶺北 / 沙頭角 / 打鼓嶺",
+    "zh-cn": "粉岭 / 粉岭北 / 沙头角 / 打鼓岭",
+    "en": "Fanling / Fanling North / Sha Tau Kok / Ta Ku Ling"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f6f2d96e53d809f8e2d"
+  },
+  "id": "130ND30024",
+  "name": {
+    "zh-hk": "上水",
+    "zh-cn": "上水",
+    "en": "Sheung Shui"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f882d96e53d809fc093"
+  },
+  "id": "130ND30025",
+  "name": {
+    "zh-hk": "沙田市中心",
+    "zh-cn": "沙田市中心",
+    "en": "Shatin Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b52f9f2d96e53d80a00709"
+  },
+  "id": "130ND30026",
+  "name": {
+    "zh-hk": "小瀝源",
+    "zh-cn": "小沥源",
+    "en": "Siu Lek Yuen"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b584d02d96e53d80805535"
+  },
+  "id": "130ND30027",
+  "name": {
+    "zh-hk": "第一城 / 石門",
+    "zh-cn": "第一城 / 石门",
+    "en": "City One / Shek Mun"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5853f2d96e53d80829e20"
+  },
+  "id": "130ND30029",
+  "name": {
+    "zh-hk": "馬鞍山",
+    "zh-cn": "马鞍山",
+    "en": "Ma On Shan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b585722d96e53d808395af"
+  },
+  "id": "130ND30028",
+  "name": {
+    "zh-hk": "烏溪沙",
+    "zh-cn": "乌溪沙",
+    "en": "Wu Kai Sha"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5857e2d96e53d8083c039"
+  },
+  "id": "130ND30030",
+  "name": {
+    "zh-hk": "大圍半山",
+    "zh-cn": "大围半山",
+    "en": "Tai Wai Mid-Levels"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b585b42d96e53d8084de46"
+  },
+  "id": "130ND30031",
+  "name": {
+    "zh-hk": "大圍",
+    "zh-cn": "大围",
+    "en": "Tai Wai"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b585ee2d96e53d8086011d"
+  },
+  "id": "130ND30032",
+  "name": {
+    "zh-hk": "火炭",
+    "zh-cn": "火炭",
+    "en": "Fo Tan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b586272d96e53d8086e8de"
+  },
+  "id": "130ND30033",
+  "name": {
+    "zh-hk": "九肚山",
+    "zh-cn": "九肚山",
+    "en": "Kau To Shan"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5864f2d96e53d8087d345"
+  },
+  "id": "130ND30034",
+  "name": {
+    "zh-hk": "大埔市中心",
+    "zh-cn": "大埔市中心",
+    "en": "Tai Po Town Centre"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b586842d96e53d8088e68e"
+  },
+  "id": "130ND30035",
+  "name": {
+    "zh-hk": "大埔墟 / 太和",
+    "zh-cn": "大埔墟 / 太和",
+    "en": "Tai Po Market / Tai Wo"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b5869c2d96e53d80895d42"
+  },
+  "id": "130ND30036",
+  "name": {
+    "zh-hk": "康樂園",
+    "zh-cn": "康乐园",
+    "en": "Hong Lok Yuen"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b586af2d96e53d8089b64d"
+  },
+  "id": "130ND30037",
+  "name": {
+    "zh-hk": "白石角",
+    "zh-cn": "白石角",
+    "en": "Pak Shek Kok"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b586ea2d96e53d808a905a"
+  },
+  "id": "130ND30040",
+  "name": {
+    "zh-hk": "愉景灣",
+    "zh-cn": "愉景湾",
+    "en": "Discovery Bay"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b587012d96e53d808b10d3"
+  },
+  "id": "130ND30042",
+  "name": {
+    "zh-hk": "其他離島",
+    "zh-cn": "其他离岛",
+    "en": "Other Islands"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b587062d96e53d808b2e60"
+  },
+  "id": "130ND30041",
+  "name": {
+    "zh-hk": "大嶼山南",
+    "zh-cn": "大屿山南",
+    "en": "South Lantau Island"
+  }
+},
+{
+  "_id": {
+    "$oid": "62b587292d96e53d808c11d8"
+  },
+  "id": "130ND30043",
+  "name": {
+    "zh-hk": "東涌",
+    "zh-cn": "东涌",
+    "en": "Tung Chung"
+  }
+},
+{
+  "_id": {
+    "$oid": "633547e9ee26fe61a11d9af7"
+  },
+  "id": "130ND30044",
+  "name": {
+    "zh-hk": "北區豪宅",
+    "zh-cn": "北区豪宅",
+    "en": "Northern Lux. Res."
+  }
+}]

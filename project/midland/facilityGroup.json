@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6034b96636e6f2aeb6eacd47"
+  },
+  "id": "FM01",
+  "name": {
+    "zh-hk": "兒童設施",
+    "zh-cn": "儿童设施",
+    "en": "Kids' Facilities"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034b96636e6f2aeb6eacd48"
+  },
+  "id": "FM02",
+  "name": {
+    "zh-hk": "泳池",
+    "zh-cn": "泳池",
+    "en": "Swimming Pool"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034b96636e6f2aeb6eacd53"
+  },
+  "id": "FM05",
+  "name": {
+    "zh-hk": "美容/保健",
+    "zh-cn": "美容/保健",
+    "en": "Health & Beauty"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034b99136e6f2aeb6eb7109"
+  },
+  "id": "FM07",
+  "name": {
+    "zh-hk": "娛樂設施",
+    "zh-cn": "娱乐设施",
+    "en": "Entertainment Facilities"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034b9e436e6f2aeb6ec1eb7"
+  },
+  "id": "FM09",
+  "name": {
+    "zh-hk": "餐飲設施",
+    "zh-cn": "餐饮设施",
+    "en": "Catering Facilities"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034b9e436e6f2aeb6ec1ecf"
+  },
+  "id": "FM10",
+  "name": {
+    "zh-hk": "運動設施",
+    "zh-cn": "运动设施",
+    "en": "Sports Facilities"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034ba0d36e6f2aeb6ecb44d"
+  },
+  "id": "FM12",
+  "name": {
+    "zh-hk": "會所",
+    "zh-cn": "会所",
+    "en": "Clubhouse"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034ba0d36e6f2aeb6ecb46c"
+  },
+  "id": "FM13",
+  "name": {
+    "zh-hk": "休閒區",
+    "zh-cn": "休闲区",
+    "en": "Recreational Area"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034ba1a36e6f2aeb6ecd71a"
+  },
+  "id": "FM14",
+  "name": {
+    "zh-hk": "基座商場",
+    "zh-cn": "基座商场",
+    "en": "Mall"
+  }
+}]

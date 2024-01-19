@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8d43"
+  },
+  "id": "MISCF00013",
+  "name": {
+    "zh-hk": "連花園",
+    "zh-cn": "连花园",
+    "en": "Garden"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8d52"
+  },
+  "id": "MISCF00014",
+  "name": {
+    "zh-hk": "連平台",
+    "zh-cn": "连平台",
+    "en": "Terrace"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8d5c"
+  },
+  "id": "MISCF00015",
+  "name": {
+    "zh-hk": "連露台",
+    "zh-cn": "连露台",
+    "en": "Balcony"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8d76"
+  },
+  "id": "MISCF00016",
+  "name": {
+    "zh-hk": "連天台",
+    "zh-cn": "连天台",
+    "en": "Roof"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8db1"
+  },
+  "id": "MISCF00024",
+  "name": {
+    "zh-hk": "複式",
+    "zh-cn": "复式",
+    "en": "Duplex Unit"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8dc5"
+  },
+  "id": "MISCF00025",
+  "name": {
+    "zh-hk": "相鄰特色戶",
+    "zh-cn": "相邻特色户",
+    "en": "Adjacent Special Units"
+  }
+},
+{
+  "_id": {
+    "$oid": "6034005236e6f2aeb63e8c2c"
+  },
+  "id": "MISCF00044",
+  "name": {
+    "zh-hk": "獨立車房",
+    "zh-cn": "独立车房",
+    "en": "Private Garage"
+  }
+},
+{
+  "_id": {
+    "$oid": "6045ac31a7f61d739dc6d4b6"
+  },
+  "id": "MISCF00052",
+  "name": {
+    "zh-hk": "寵物天地",
+    "zh-cn": "宠物天地",
+    "en": "Pet Allowed"
+  }
+},
+{
+  "_id": {
+    "$oid": "64489d154efd553bf375a893"
+  },
+  "id": "MISCF00067",
+  "name": {
+    "zh-hk": "獨立屋",
+    "zh-cn": "独立屋",
+    "en": "House"
+  }
+},
+{
+  "_id": {
+    "$oid": "647802475a2d9140d9346106"
+  },
+  "id": "MISCF00068",
+  "name": {
+    "zh-hk": "可短租",
+    "zh-cn": "可短租",
+    "en": "Short-Term Avail."
+  }
+},
+{
+  "_id": {
+    "$oid": "647802475a2d9140d934610a"
+  },
+  "id": "MISCF00069",
+  "name": {
+    "zh-hk": "年付優惠",
+    "zh-cn": "年付优惠",
+    "en": "Prepaid Discount"
+  }
+},
+{
+  "_id": {
+    "$oid": "654064be213a99a6ee2cbf60"
+  },
+  "id": "MISCF00070",
+  "name": {
+    "zh-hk": "連有蓋車位",
+    "zh-cn": "连有盖车位",
+    "en": "Covered Parking Space"
+  }
+},
+{
+  "_id": {
+    "$oid": "654064be213a99a6ee2cbf65"
+  },
+  "id": "MISCF00071",
+  "name": {
+    "zh-hk": "連無蓋車位",
+    "zh-cn": "连无盖车位",
+    "en": "Opened Parking Space"
+  }
+}]
